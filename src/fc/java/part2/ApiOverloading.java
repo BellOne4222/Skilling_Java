@@ -1,3 +1,5 @@
+package fc.java.part2;
+
 public class ApiOverloading {
 	public static void main(String[] args) {
 		int max = maxValue(7, 9);
@@ -19,3 +21,5 @@ public class ApiOverloading {
 	}
 
 }
+
+
